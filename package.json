@@ -1,0 +1,28 @@
+{
+  "name": "phonebook",
+  "version": "1.0.0",
+  "description": "\"# -phonebook-\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "scriptname": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nate-peach/-phonebook-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nate-peach/-phonebook-/issues"
+  },
+  "homepage": "https://github.com/nate-peach/-phonebook-#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
